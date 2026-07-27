@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aiman Wazir
 
-### AI & Machine Learning Developer | Aspiring Full-Stack Engineer
+### AI & Machine Learning Developer |  Full-Stack AI Developer | Python developer
 
 Welcome to my GitHub! I'm passionate about developing intelligent software that solves real-world problems. My interests include Artificial Intelligence, Machine Learning, Natural Language Processing, and Full-Stack Web Development.
 
