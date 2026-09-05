@@ -60,51 +60,6 @@ Welcome to my GitHub! I'm passionate about developing intelligent software that 
 
 ---
 
-# 📂 Featured Projects
-
-## 🤖 AI Internship Support Chatbot
-
-An intelligent FAQ chatbot that uses semantic search with Sentence Transformers and FAISS to answer internship-related questions quickly and accurately.
-
-**Technologies**
-
-* Python
-* FastAPI
-* Sentence Transformers
-* FAISS
-* Hugging Face
-
----
-
-## 🎯 AI Interview Question Generator
-
-An AI application that generates role-specific interview questions based on job descriptions and candidate skills.
-
----
-
-## 🩺 Medical Image Super Resolution
-
-A deep learning project focused on improving the resolution of medical X-ray images using super-resolution techniques.
-
----
-
-## 📊 Skill Gap Analysis
-
-A machine learning project that analyzes technical skills and identifies areas for improvement through data-driven recommendations.
-
----
-
-## 🛒 Amazon Clone
-
-A responsive Amazon homepage clone built using HTML and CSS to strengthen frontend development skills.
-
----
-
-## 📚 Learning Path Recommendation System
-
-A recommendation engine that suggests personalized learning paths using collaborative filtering and matrix factorization.
-
----
 
 # 📫 Connect With Me
 
